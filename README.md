@@ -1,0 +1,1 @@
+# custom_linux_usb_driver_for_NUCLEO_F411re
