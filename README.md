@@ -1,4 +1,4 @@
-# Development of a Custom Linux USB Character Driver for NUCLEO-F411RE
+# Development of a Custom Linux USB Character Driver for STM32F411RE
 
 ## Project Overview
 
