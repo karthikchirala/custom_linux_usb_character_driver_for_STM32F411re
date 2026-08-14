@@ -9,7 +9,7 @@
 /* Commands */
 #define CMD_LED_ON        0x01
 #define CMD_LED_OFF       0x02
-#define CMD_READ_SENSOR   0x10   /*NEW: RFID + Sensor */
+#define CMD_READ_SENSOR   0x10   /* RFID + Sensor */
 
 /* Response Status Codes */
 #define RESP_AUTHORIZED   0xA0   /* RFID authorized */
